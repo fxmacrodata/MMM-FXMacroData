@@ -1,0 +1,106 @@
+.fxmd {
+  text-align: left;
+}
+
+.fxmd-next {
+  margin-bottom: 6px;
+}
+
+.fxmd-next .fxmd-countdown {
+  color: var(--color-text-bright, #fff);
+}
+
+.fxmd-calendar,
+.fxmd-latest {
+  border-collapse: collapse;
+}
+
+.fxmd-calendar td {
+  padding: 1px 6px 1px 0;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+.fxmd-calendar .fxmd-name {
+  max-width: 16em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fxmd-calendar .fxmd-time {
+  padding-right: 0;
+  padding-left: 10px;
+  text-align: right;
+}
+
+.fxmd-currency {
+  font-weight: 400;
+}
+
+.fxmd-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  vertical-align: middle;
+  background: #666;
+}
+
+.fxmd .importance-high .fxmd-dot {
+  background: #f5a623;
+}
+
+.fxmd .importance-medium .fxmd-dot {
+  background: #aaa;
+}
+
+.fxmd-calendar .importance-high td {
+  color: var(--color-text-bright, #fff);
+}
+
+.fxmd-calendar .importance-low td {
+  color: var(--color-text-dimmed, #666);
+}
+
+.fxmd-latest {
+  margin-top: 10px;
+}
+
+.fxmd-latest th {
+  font-weight: 400;
+  text-align: right;
+  padding: 0 0 2px 10px;
+}
+
+.fxmd-latest td {
+  padding: 1px 0 1px 10px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.fxmd-latest td.fxmd-name {
+  padding-left: 0;
+  text-align: left;
+}
+
+.fxmd-up,
+.fxmd-down {
+  margin-left: 4px;
+}
+
+.fxmd-up {
+  color: #7ac57a;
+}
+
+.fxmd-down {
+  color: #e07070;
+}
+
+.fxmd-error {
+  margin-top: 6px;
+  color: #e0a070;
+}
+
+.fxmd-footer {
+  margin-top: 6px;
+}

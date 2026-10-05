@@ -1,0 +1,33 @@
+{
+  "name": "mmm-fxmacrodata",
+  "version": "1.0.0",
+  "description": "MagicMirror² module showing the upcoming macroeconomic release calendar and latest central-bank and inflation figures from FXMacroData.",
+  "main": "MMM-FXMacroData.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "MagicMirror",
+    "finance",
+    "economic calendar",
+    "macroeconomics",
+    "forex",
+    "central bank",
+    "inflation",
+    "interest rates"
+  ],
+  "author": "Robert Tidball (https://fxmacrodata.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxmacrodata/MMM-FXMacroData.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fxmacrodata/MMM-FXMacroData/issues"
+  },
+  "homepage": "https://github.com/fxmacrodata/MMM-FXMacroData#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}

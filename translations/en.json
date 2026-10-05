@@ -1,0 +1,19 @@
+{
+  "LOADING": "Loading economic calendar …",
+  "NEXT": "Next:",
+  "IN": "in",
+  "NO_RELEASES": "No upcoming releases.",
+  "LATEST": "Latest",
+  "PREVIOUS": "Prev.",
+  "NEEDS_KEY": "needs key",
+  "IMPORTANCE_HIGH": "High importance",
+  "IMPORTANCE_MEDIUM": "Medium importance",
+  "IMPORTANCE_LOW": "Low importance",
+  "FOOTER": "Data: FXMacroData",
+  "FOOTER_DELAYED": "Data: FXMacroData (free tier, 15 min delay)",
+  "ERROR_KEY_REQUIRED": "{currency}: an FXMacroData API key is required for this currency.",
+  "ERROR_RATE_LIMITED": "{currency}: rate limit reached, retrying later.",
+  "ERROR_NOT_FOUND": "{currency}: not available.",
+  "ERROR_API": "{currency}: the FXMacroData API returned an error, retrying later.",
+  "ERROR_NETWORK": "{currency}: could not reach the FXMacroData API."
+}
